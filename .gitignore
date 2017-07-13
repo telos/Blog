@@ -3,6 +3,11 @@ bundle.js
 npm-debug.log
 .DS_Store
 
+.vscode
+
+# Configuration info: keys, etc
+/config
+
 # IntelliJ
 *.iml
 /.idea
