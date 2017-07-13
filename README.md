@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# Blog
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple react + redux + webpack blog app from the Modern React with Redux course on Udemy by Stephen Grider.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
+#### Sources
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone git@github.com:telos/Blog.git
+> cd Blog
 > npm install
 > npm start
 ```
